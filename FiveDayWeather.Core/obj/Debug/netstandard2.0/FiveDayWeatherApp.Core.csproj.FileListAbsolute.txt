@@ -1,0 +1,6 @@
+C:\Users\Elenn\source\repos\FiveDayWeatherApp\FiveDayWeather.Core\bin\Debug\netstandard2.0\FiveDayWeatherApp.Core.deps.json
+C:\Users\Elenn\source\repos\FiveDayWeatherApp\FiveDayWeather.Core\bin\Debug\netstandard2.0\FiveDayWeatherApp.Core.dll
+C:\Users\Elenn\source\repos\FiveDayWeatherApp\FiveDayWeather.Core\obj\Debug\netstandard2.0\FiveDayWeatherApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Elenn\source\repos\FiveDayWeatherApp\FiveDayWeather.Core\obj\Debug\netstandard2.0\FiveDayWeatherApp.Core.AssemblyInfoInputs.cache
+C:\Users\Elenn\source\repos\FiveDayWeatherApp\FiveDayWeather.Core\obj\Debug\netstandard2.0\FiveDayWeatherApp.Core.AssemblyInfo.cs
+C:\Users\Elenn\source\repos\FiveDayWeatherApp\FiveDayWeather.Core\obj\Debug\netstandard2.0\FiveDayWeatherApp.Core.csprojAssemblyReference.cache

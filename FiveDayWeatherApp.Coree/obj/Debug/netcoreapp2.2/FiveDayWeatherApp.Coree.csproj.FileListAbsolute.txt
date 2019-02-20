@@ -1,0 +1,11 @@
+C:\Users\Elenn\source\repos\FiveDayWeatherApp\FiveDayWeatherApp.Coree\bin\Debug\netcoreapp2.2\FiveDayWeatherApp.Coree.deps.json
+C:\Users\Elenn\source\repos\FiveDayWeatherApp\FiveDayWeatherApp.Coree\bin\Debug\netcoreapp2.2\FiveDayWeatherApp.Coree.runtimeconfig.json
+C:\Users\Elenn\source\repos\FiveDayWeatherApp\FiveDayWeatherApp.Coree\bin\Debug\netcoreapp2.2\FiveDayWeatherApp.Coree.runtimeconfig.dev.json
+C:\Users\Elenn\source\repos\FiveDayWeatherApp\FiveDayWeatherApp.Coree\bin\Debug\netcoreapp2.2\FiveDayWeatherApp.Coree.dll
+C:\Users\Elenn\source\repos\FiveDayWeatherApp\FiveDayWeatherApp.Coree\obj\Debug\netcoreapp2.2\FiveDayWeatherApp.Coree.csproj.CoreCompileInputs.cache
+C:\Users\Elenn\source\repos\FiveDayWeatherApp\FiveDayWeatherApp.Coree\obj\Debug\netcoreapp2.2\FiveDayWeatherApp.Coree.AssemblyInfoInputs.cache
+C:\Users\Elenn\source\repos\FiveDayWeatherApp\FiveDayWeatherApp.Coree\obj\Debug\netcoreapp2.2\FiveDayWeatherApp.Coree.AssemblyInfo.cs
+C:\Users\Elenn\source\repos\FiveDayWeatherApp\FiveDayWeatherApp.Coree\obj\Debug\netcoreapp2.2\FiveDayWeatherApp.Coree.csprojAssemblyReference.cache
+C:\Users\Elenn\source\repos\FiveDayWeatherApp\FiveDayWeatherApp.Coree\bin\Debug\netcoreapp2.2\FiveDayWeatherApp.Coree.pdb
+C:\Users\Elenn\source\repos\FiveDayWeatherApp\FiveDayWeatherApp.Coree\obj\Debug\netcoreapp2.2\FiveDayWeatherApp.Coree.dll
+C:\Users\Elenn\source\repos\FiveDayWeatherApp\FiveDayWeatherApp.Coree\obj\Debug\netcoreapp2.2\FiveDayWeatherApp.Coree.pdb

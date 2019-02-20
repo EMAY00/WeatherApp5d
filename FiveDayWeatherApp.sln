@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiveDayWeatherApp", "FiveDayWeatherApp\FiveDayWeatherApp.csproj", "{42B66455-0646-4BDC-895E-8496FC1EDA06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiveDayWeatherApp.Core", "FiveDayWeather.Core\FiveDayWeatherApp.Core.csproj", "{F2EA5F68-4688-4A3F-BB17-57954A0EDDB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42B66455-0646-4BDC-895E-8496FC1EDA06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42B66455-0646-4BDC-895E-8496FC1EDA06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42B66455-0646-4BDC-895E-8496FC1EDA06}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{42B66455-0646-4BDC-895E-8496FC1EDA06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42B66455-0646-4BDC-895E-8496FC1EDA06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42B66455-0646-4BDC-895E-8496FC1EDA06}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F2EA5F68-4688-4A3F-BB17-57954A0EDDB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2EA5F68-4688-4A3F-BB17-57954A0EDDB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2EA5F68-4688-4A3F-BB17-57954A0EDDB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2EA5F68-4688-4A3F-BB17-57954A0EDDB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83DA274A-130B-4E2F-B79B-48F549F20597}
+	EndGlobalSection
+EndGlobal

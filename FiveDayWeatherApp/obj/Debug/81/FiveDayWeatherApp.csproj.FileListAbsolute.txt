@@ -1,0 +1,5 @@
+C:\Users\Elenn\source\repos\FiveDayWeatherApp\FiveDayWeatherApp\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\Elenn\source\repos\FiveDayWeatherApp\FiveDayWeatherApp\obj\Debug\81\FiveDayWeatherApp.nuget.stamp
+C:\Users\Elenn\source\repos\FiveDayWeatherApp\FiveDayWeatherApp\obj\Debug\81\FiveDayWeatherApp.csprojAssemblyReference.cache
+C:\Users\Elenn\source\repos\FiveDayWeatherApp\FiveDayWeatherApp\obj\Debug\81\libraryimports.cache.stamp
+C:\Users\Elenn\source\repos\FiveDayWeatherApp\FiveDayWeatherApp\obj\Debug\81\res.flag
